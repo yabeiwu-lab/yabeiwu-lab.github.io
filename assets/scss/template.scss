@@ -1,0 +1,94 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+// HugoBlox stores research topics in the `interests` field.
+.section-subheading:has(+ .ul-interests) {
+  font-size: 0;
+}
+
+.section-subheading:has(+ .ul-interests)::after {
+  content: "研究方向";
+  font-size: 1.25rem;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.research-card {
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid rgba(24, 57, 91, 0.12);
+  border-radius: 0.8rem;
+  box-shadow: 0 12px 32px rgba(18, 47, 78, 0.1);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.research-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 18px 42px rgba(18, 47, 78, 0.18);
+}
+
+.research-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.research-card-body {
+  padding: 1.4rem 1.35rem 1.5rem;
+}
+
+.research-card-number {
+  color: #1675c1;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.research-card h2 {
+  margin: 0.55rem 0 0.8rem;
+  color: #172d43;
+  font-size: 1.2rem;
+  line-height: 1.45;
+}
+
+.research-card p {
+  margin: 0;
+  color: #526579;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 1.15rem;
+}
+
+.research-tags span {
+  padding: 0.25rem 0.6rem;
+  color: #176a9d;
+  background: #edf7fc;
+  border-radius: 2rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+}
+
+@media (max-width: 991px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
