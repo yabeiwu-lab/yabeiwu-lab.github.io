@@ -14,7 +14,7 @@ sections:
         - 博士研究生
         - 硕士研究生
         - 本科生
-        - 已毕业成员
+        - 往届成员
       sort_by: Params.last_name
       sort_ascending: true
     design:
