@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 计算材料与电子结构课题组
+title: 材料物理与智能计算课题组
 baseURL: 'https://yabeiwu-lab.github.io/'
 
 ############################

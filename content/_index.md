@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 计算材料与电子结构课题组
+      title: 材料物理与智能计算课题组
       image:
         filename: welcome.jpg
       text: |

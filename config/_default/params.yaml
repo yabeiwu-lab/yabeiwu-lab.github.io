@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: '计算材料与电子结构课题组'
+    org_name: '材料物理与智能计算课题组'
     description: '吴亚北课题组官方网站，展示计算材料、电子结构、机器学习材料设计等研究方向与成果。'
     twitter: ''
   analytics:
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 计算材料与电子结构课题组'
+    notice: '© {year} 材料物理与智能计算课题组'
     license:
       enable: false
       allow_derivatives: false
