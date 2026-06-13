@@ -17,10 +17,20 @@ banner:
     <strong>论文引用统计</strong>
     <span id="openalex-citation-status">正在从 OpenAlex 获取最新引用数据…</span>
   </div>
+  <div class="citation-metrics" aria-label="论文引用指标">
+    <div class="citation-metric">
+      <b id="openalex-h-index">–</b>
+      <span>h 指数</span>
+    </div>
+    <div class="citation-metric">
+      <b id="openalex-i10-index">–</b>
+      <span>i10（h10）指数</span>
+    </div>
+  </div>
   <a href="https://openalex.org/A5010162353" target="_blank" rel="noopener">数据来源：OpenAlex</a>
 </aside>
 
-<script defer src="/js/openalex-citations.js?v=2"></script>
+<script defer src="/js/openalex-citations.js?v=3"></script>
 
 ## 第一 / 通讯作者论文
 

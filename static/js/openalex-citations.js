@@ -1,8 +1,10 @@
 (() => {
   const tool = document.getElementById("openalex-citation-tool");
   const status = document.getElementById("openalex-citation-status");
+  const hIndexElement = document.getElementById("openalex-h-index");
+  const i10IndexElement = document.getElementById("openalex-i10-index");
 
-  if (!tool || !status) {
+  if (!tool || !status || !hIndexElement || !i10IndexElement) {
     return;
   }
 
@@ -143,6 +145,7 @@
 
       let matched = 0;
       let citationTotal = 0;
+      const citationCounts = [];
 
       publicationItems.forEach(({ item, link }) => {
         const work = findWork(link, works, worksByDoi, worksByTitle);
@@ -152,9 +155,16 @@
 
         matched += 1;
         citationTotal += work.cited_by_count;
+        citationCounts.push(work.cited_by_count);
         renderCitation(item, work);
       });
 
+      citationCounts.sort((left, right) => right - left);
+      const hIndex = citationCounts.filter((count, index) => count >= index + 1).length;
+      const i10Index = citationCounts.filter((count) => count >= 10).length;
+
+      hIndexElement.textContent = hIndex;
+      i10IndexElement.textContent = i10Index;
       status.textContent = `已匹配 ${matched}/${publicationItems.length} 篇论文，合计被引 ${citationTotal} 次；数据随页面访问自动更新。`;
     })
     .catch(() => {
