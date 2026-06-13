@@ -12,6 +12,16 @@ banner:
 
 以下为截至 2026 年 6 月的完整已发表论文列表。论文题目链接至期刊页面；页面下方保留了部分代表性论文的检索与详情入口。
 
+<aside class="citation-tool" id="openalex-citation-tool" data-author-id="A5010162353">
+  <div>
+    <strong>论文引用统计</strong>
+    <span id="openalex-citation-status">正在从 OpenAlex 获取最新引用数据…</span>
+  </div>
+  <a href="https://openalex.org/A5010162353" target="_blank" rel="noopener">数据来源：OpenAlex</a>
+</aside>
+
+<script defer src="/js/openalex-citations.js"></script>
+
 ## 第一 / 通讯作者论文
 
 1. [A Quasi-One-Dimensional Cluster Vibration Strategy for Thermoelectric Materials: The Case of Na₂AgSb](https://www.sciencedirect.com/science/article/pii/S0264127526009196)<br>

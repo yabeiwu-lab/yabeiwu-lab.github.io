@@ -92,3 +92,65 @@
     grid-template-columns: 1fr;
   }
 }
+
+.citation-tool {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.75rem 0 2.25rem;
+  padding: 1rem 1.15rem;
+  background: linear-gradient(135deg, #eef7ff, #f7fbff);
+  border: 1px solid rgba(22, 117, 193, 0.2);
+  border-radius: 0.75rem;
+}
+
+.citation-tool strong,
+.citation-tool span {
+  display: block;
+}
+
+.citation-tool strong {
+  color: #172d43;
+  font-size: 1rem;
+}
+
+.citation-tool span {
+  margin-top: 0.2rem;
+  color: #526579;
+  font-size: 0.84rem;
+}
+
+.citation-tool a {
+  flex: 0 0 auto;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.citation-row {
+  margin-top: 0.35rem;
+}
+
+.citation-badge {
+  display: inline-block;
+  padding: 0.16rem 0.55rem;
+  color: #176a9d;
+  background: #edf7fc;
+  border: 1px solid rgba(23, 106, 157, 0.2);
+  border-radius: 2rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+}
+
+.citation-badge:hover {
+  color: #0d527e;
+  background: #dff1fa;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .citation-tool {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
