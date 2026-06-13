@@ -20,7 +20,7 @@ banner:
   <a href="https://openalex.org/A5010162353" target="_blank" rel="noopener">数据来源：OpenAlex</a>
 </aside>
 
-<script defer src="/js/openalex-citations.js"></script>
+<script defer src="/js/openalex-citations.js?v=2"></script>
 
 ## 第一 / 通讯作者论文
 
