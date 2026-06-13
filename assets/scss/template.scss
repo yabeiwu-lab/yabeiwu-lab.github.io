@@ -127,12 +127,20 @@
   font-weight: 600;
 }
 
-.citation-row {
-  margin-top: 0.35rem;
+.citation-meta-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.citation-journal {
+  min-width: 0;
 }
 
 .citation-badge {
   display: inline-block;
+  flex: 0 0 auto;
   padding: 0.16rem 0.55rem;
   color: #176a9d;
   background: #edf7fc;

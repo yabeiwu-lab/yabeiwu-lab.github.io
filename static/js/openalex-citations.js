@@ -78,9 +78,12 @@
 
   const renderCitation = (item, work) => {
     const row = document.createElement("div");
+    const journal = document.createElement("span");
     const badge = document.createElement("a");
+    const lineBreak = item.querySelector("br");
 
-    row.className = "citation-row";
+    row.className = "citation-meta-row";
+    journal.className = "citation-journal";
     badge.className = "citation-badge";
     badge.href = work.id;
     badge.target = "_blank";
@@ -88,6 +91,14 @@
     badge.textContent = `被引 ${work.cited_by_count} 次`;
     badge.title = "在 OpenAlex 查看引用信息";
 
+    if (lineBreak) {
+      while (lineBreak.nextSibling) {
+        journal.appendChild(lineBreak.nextSibling);
+      }
+      lineBreak.remove();
+    }
+
+    row.appendChild(journal);
     row.appendChild(badge);
     item.appendChild(row);
   };
