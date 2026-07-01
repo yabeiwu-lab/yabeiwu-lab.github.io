@@ -25,6 +25,9 @@ main:
   - name: 论文成果
     url: publication
     weight: 60
+  - name: 内部资料
+    url: internal
+    weight: 65
   - name: 联系方式
     url: contact
     weight: 70
