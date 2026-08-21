@@ -10,7 +10,7 @@ tags:
   - 带隙调控
 ---
 
-课题组参与的论文 “Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering” 已在 *Physical Chemistry Chemical Physics* 发表。
+课题组研究成果 “Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering” 已在 *Physical Chemistry Chemical Physics* 发表。
 
 <!--more-->
 
