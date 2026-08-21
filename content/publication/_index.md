@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 
-以下为截至 2026 年 6 月的完整已发表论文列表。论文题目链接至期刊页面；页面下方保留了部分代表性论文的检索与详情入口。
+以下为截至 2026 年 8 月的完整已发表论文列表。论文题目链接至期刊页面；页面下方保留了部分代表性论文的检索与详情入口。
 
 <aside class="citation-tool" id="openalex-citation-tool" data-author-id="A5010162353">
   <div>
@@ -34,35 +34,37 @@ banner:
 
 ## 第一 / 通讯作者论文
 
-1. [A Quasi-One-Dimensional Cluster Vibration Strategy for Thermoelectric Materials: The Case of Na₂AgSb](https://www.sciencedirect.com/science/article/pii/S0264127526009196)<br>
+1. [Generative Inverse Design of Cold Metals for Low-Power Electronics](https://www.sciencedirect.com/science/article/pii/S0264127526013511)<br>
+   *Materials & Design* **269**, 116776 (2026)
+2. [A Quasi-One-Dimensional Cluster Vibration Strategy for Thermoelectric Materials: The Case of Na₂AgSb](https://www.sciencedirect.com/science/article/pii/S0264127526009196)<br>
    *Materials & Design* **267**, 116346 (2026)
-2. [Application of Literature Datasets and Knowledge Transfer to Accelerate Material Design](https://www.sciencedirect.com/science/article/pii/S2352492826006094)<br>
+3. [Application of Literature Datasets and Knowledge Transfer to Accelerate Material Design](https://www.sciencedirect.com/science/article/pii/S2352492826006094)<br>
    *Materials Today Communications*, 115225 (2026)
-3. [Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering](https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00516k)<br>
+4. [Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering](https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00516k)<br>
    *Physical Chemistry Chemical Physics* **28**, 8856–8863 (2026)
-4. [Latent Phase Transition in Two-Dimensional PdSe₂](https://journals.aps.org/prl/accepted/10.1103/hcy1-7znw)<br>
+5. [Latent Phase Transition in Two-Dimensional PdSe₂](https://journals.aps.org/prl/accepted/10.1103/hcy1-7znw)<br>
    *Physical Review Letters* **135**, 206102 (2025), Editors' Suggestion
-5. [Atomic Origins of Leakage Paths in Epitaxial Al₁₋ₓScₓN Thin Films](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03675)<br>
+6. [Atomic Origins of Leakage Paths in Epitaxial Al₁₋ₓScₓN Thin Films](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03675)<br>
    *Nano Letters* **25**, 14371 (2025)
-6. [Vacancy Order-Disorder Transition and Band Convergence in HfRu₁.₅Sb: A First-Principles Study](https://www.sciencedirect.com/science/article/pii/S2542529325002044)<br>
+7. [Vacancy Order-Disorder Transition and Band Convergence in HfRu₁.₅Sb: A First-Principles Study](https://www.sciencedirect.com/science/article/pii/S2542529325002044)<br>
    *Materials Today Physics* **58**, 101848 (2025)
-7. [Interlaced Nanotwinned Diamond and Its Deformation Mechanism under Pure Shear Strain](https://www.sciencedirect.com/science/article/pii/S2542529325000410)<br>
+8. [Interlaced Nanotwinned Diamond and Its Deformation Mechanism under Pure Shear Strain](https://www.sciencedirect.com/science/article/pii/S2542529325000410)<br>
    *Materials Today Physics* **52**, 101685 (2025)
-8. [Interpretable Model of Dielectric Constant for Rational Design of Microwave Dielectric Materials: A Machine Learning Study](https://www.oaepublish.com/pre_onlines/jmi.2024.75)<br>
+9. [Interpretable Model of Dielectric Constant for Rational Design of Microwave Dielectric Materials: A Machine Learning Study](https://www.oaepublish.com/pre_onlines/jmi.2024.75)<br>
    *Journal of Materials Informatics* **5**, 7 (2025)
-9. [Manipulating Hetero-Nanowire Films for Flexible and Multifunctional Thermoelectric Devices](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202400020)<br>
+10. [Manipulating Hetero-Nanowire Films for Flexible and Multifunctional Thermoelectric Devices](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202400020)<br>
    *Advanced Materials* **36**, 240020 (2024)
-10. [Advancing First-Principles Dielectric Property Prediction of Complex Microwave Materials: An Elemental Unit-Based Approach](https://www.nature.com/articles/s41524-024-01366-8)<br>
+11. [Advancing First-Principles Dielectric Property Prediction of Complex Microwave Materials: An Elemental Unit-Based Approach](https://www.nature.com/articles/s41524-024-01366-8)<br>
     *npj Computational Materials* **10**, 179 (2024)
-11. [Exploiting the Stereoelectronic Effects for Selective Tuning of Band Edge States of α-SnO: GW Quasiparticle Calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.085201)<br>
+12. [Exploiting the Stereoelectronic Effects for Selective Tuning of Band Edge States of α-SnO: GW Quasiparticle Calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.085201)<br>
     *Physical Review B* **106**, 085201 (2022)
-12. [Protected Band Edge States and Dielectric Tunable Quasiparticle and Excitonic Properties of Monolayer MoSi₂N₄](https://www.nature.com/articles/s41524-022-00815-6)<br>
+13. [Protected Band Edge States and Dielectric Tunable Quasiparticle and Excitonic Properties of Monolayer MoSi₂N₄](https://www.nature.com/articles/s41524-022-00815-6)<br>
     *npj Computational Materials* **8**, 129 (2022)
-13. [Remarkable Band-Gap Renormalization via Dimensionality of the Layered Material C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014073)<br>
+14. [Remarkable Band-Gap Renormalization via Dimensionality of the Layered Material C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014073)<br>
     *Physical Review Applied* **14**, 014073 (2020)
-14. [Quasiparticle Electronic Structure of Honeycomb C₃N: From Monolayer to Bulk](http://iopscience.iop.org/article/10.1088/2053-1583/aaeeaa/meta)<br>
+15. [Quasiparticle Electronic Structure of Honeycomb C₃N: From Monolayer to Bulk](http://iopscience.iop.org/article/10.1088/2053-1583/aaeeaa/meta)<br>
     *2D Materials* **6**, 015018 (2018)
-15. [Engineering the Near-Edge Electronic Structure of SnSe through Strains](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.034007)<br>
+16. [Engineering the Near-Edge Electronic Structure of SnSe through Strains](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.034007)<br>
     *Physical Review Applied* **8**, 034007 (2017), Editors' Suggestion
 
 ## 合作作者论文
