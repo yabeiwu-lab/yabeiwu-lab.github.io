@@ -12,6 +12,7 @@ all_day: true
 
 authors:
   - admin
+  - wei-luo
 tags:
   - 中国材料大会
   - 学术交流
