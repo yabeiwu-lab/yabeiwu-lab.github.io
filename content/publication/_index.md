@@ -34,41 +34,43 @@ banner:
 
 ## 第一 / 通讯作者论文
 
-1. [Functional Dependence of d-State Bonding and Magnetovolume Effects in Heusler Alloys](https://pubs.rsc.org/cp/article-abstract/doi/10.1039/d6cp01889k/1293372/Functional-dependence-of-d-state-bonding-and)<br>
+1. [Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties](/publication/molecular-engineering-2d-hybrid-perovskites/)<br>
+   *The Journal of Physical Chemistry C*, accepted (2026)
+2. [Functional Dependence of d-State Bonding and Magnetovolume Effects in Heusler Alloys](https://pubs.rsc.org/cp/article-abstract/doi/10.1039/d6cp01889k/1293372/Functional-dependence-of-d-state-bonding-and)<br>
    *Physical Chemistry Chemical Physics*, accepted/published online (2026)
-2. [Polarization Engineering of the Orbital Hall Conductivity in the Two-Dimensional Ferroelectric Higher-Order Topological Insulators Tl₂S and SnS](https://journals.aps.org/prb/accepted/10.1103/nqkg-2sj7)<br>
+3. [Polarization Engineering of the Orbital Hall Conductivity in the Two-Dimensional Ferroelectric Higher-Order Topological Insulators Tl₂S and SnS](https://journals.aps.org/prb/accepted/10.1103/nqkg-2sj7)<br>
    *Physical Review B*, accepted (2026)
-3. [Generative Inverse Design of Cold Metals for Low-Power Electronics](https://www.sciencedirect.com/science/article/pii/S0264127526013511)<br>
+4. [Generative Inverse Design of Cold Metals for Low-Power Electronics](https://www.sciencedirect.com/science/article/pii/S0264127526013511)<br>
    *Materials & Design* **269**, 116776 (2026)
-4. [A Quasi-One-Dimensional Cluster Vibration Strategy for Thermoelectric Materials: The Case of Na₂AgSb](https://www.sciencedirect.com/science/article/pii/S0264127526009196)<br>
+5. [A Quasi-One-Dimensional Cluster Vibration Strategy for Thermoelectric Materials: The Case of Na₂AgSb](https://www.sciencedirect.com/science/article/pii/S0264127526009196)<br>
    *Materials & Design* **267**, 116346 (2026)
-5. [Application of Literature Datasets and Knowledge Transfer to Accelerate Material Design](https://www.sciencedirect.com/science/article/pii/S2352492826006094)<br>
+6. [Application of Literature Datasets and Knowledge Transfer to Accelerate Material Design](https://www.sciencedirect.com/science/article/pii/S2352492826006094)<br>
    *Materials Today Communications*, 115225 (2026)
-6. [Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering](https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00516k)<br>
+7. [Tailoring the Many-Body Effects and Phase Configurations in Monolayer MSi₂X₄ for Wide-Range Bandgap Engineering](https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00516k)<br>
    *Physical Chemistry Chemical Physics* **28**, 8856–8863 (2026)
-7. [Latent Phase Transition in Two-Dimensional PdSe₂](https://journals.aps.org/prl/accepted/10.1103/hcy1-7znw)<br>
+8. [Latent Phase Transition in Two-Dimensional PdSe₂](https://journals.aps.org/prl/accepted/10.1103/hcy1-7znw)<br>
    *Physical Review Letters* **135**, 206102 (2025), Editors' Suggestion
-8. [Atomic Origins of Leakage Paths in Epitaxial Al₁₋ₓScₓN Thin Films](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03675)<br>
+9. [Atomic Origins of Leakage Paths in Epitaxial Al₁₋ₓScₓN Thin Films](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03675)<br>
    *Nano Letters* **25**, 14371 (2025)
-9. [Vacancy Order-Disorder Transition and Band Convergence in HfRu₁.₅Sb: A First-Principles Study](https://www.sciencedirect.com/science/article/pii/S2542529325002044)<br>
+10. [Vacancy Order-Disorder Transition and Band Convergence in HfRu₁.₅Sb: A First-Principles Study](https://www.sciencedirect.com/science/article/pii/S2542529325002044)<br>
    *Materials Today Physics* **58**, 101848 (2025)
-10. [Interlaced Nanotwinned Diamond and Its Deformation Mechanism under Pure Shear Strain](https://www.sciencedirect.com/science/article/pii/S2542529325000410)<br>
+11. [Interlaced Nanotwinned Diamond and Its Deformation Mechanism under Pure Shear Strain](https://www.sciencedirect.com/science/article/pii/S2542529325000410)<br>
    *Materials Today Physics* **52**, 101685 (2025)
-11. [Interpretable Model of Dielectric Constant for Rational Design of Microwave Dielectric Materials: A Machine Learning Study](https://www.oaepublish.com/pre_onlines/jmi.2024.75)<br>
+12. [Interpretable Model of Dielectric Constant for Rational Design of Microwave Dielectric Materials: A Machine Learning Study](https://www.oaepublish.com/pre_onlines/jmi.2024.75)<br>
    *Journal of Materials Informatics* **5**, 7 (2025)
-12. [Manipulating Hetero-Nanowire Films for Flexible and Multifunctional Thermoelectric Devices](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202400020)<br>
+13. [Manipulating Hetero-Nanowire Films for Flexible and Multifunctional Thermoelectric Devices](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202400020)<br>
    *Advanced Materials* **36**, 240020 (2024)
-13. [Advancing First-Principles Dielectric Property Prediction of Complex Microwave Materials: An Elemental Unit-Based Approach](https://www.nature.com/articles/s41524-024-01366-8)<br>
+14. [Advancing First-Principles Dielectric Property Prediction of Complex Microwave Materials: An Elemental Unit-Based Approach](https://www.nature.com/articles/s41524-024-01366-8)<br>
     *npj Computational Materials* **10**, 179 (2024)
-14. [Exploiting the Stereoelectronic Effects for Selective Tuning of Band Edge States of α-SnO: GW Quasiparticle Calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.085201)<br>
+15. [Exploiting the Stereoelectronic Effects for Selective Tuning of Band Edge States of α-SnO: GW Quasiparticle Calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.085201)<br>
     *Physical Review B* **106**, 085201 (2022)
-15. [Protected Band Edge States and Dielectric Tunable Quasiparticle and Excitonic Properties of Monolayer MoSi₂N₄](https://www.nature.com/articles/s41524-022-00815-6)<br>
+16. [Protected Band Edge States and Dielectric Tunable Quasiparticle and Excitonic Properties of Monolayer MoSi₂N₄](https://www.nature.com/articles/s41524-022-00815-6)<br>
     *npj Computational Materials* **8**, 129 (2022)
-16. [Remarkable Band-Gap Renormalization via Dimensionality of the Layered Material C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014073)<br>
+17. [Remarkable Band-Gap Renormalization via Dimensionality of the Layered Material C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014073)<br>
     *Physical Review Applied* **14**, 014073 (2020)
-17. [Quasiparticle Electronic Structure of Honeycomb C₃N: From Monolayer to Bulk](http://iopscience.iop.org/article/10.1088/2053-1583/aaeeaa/meta)<br>
+18. [Quasiparticle Electronic Structure of Honeycomb C₃N: From Monolayer to Bulk](http://iopscience.iop.org/article/10.1088/2053-1583/aaeeaa/meta)<br>
     *2D Materials* **6**, 015018 (2018)
-18. [Engineering the Near-Edge Electronic Structure of SnSe through Strains](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.034007)<br>
+19. [Engineering the Near-Edge Electronic Structure of SnSe through Strains](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.034007)<br>
     *Physical Review Applied* **8**, 034007 (2017), Editors' Suggestion
 
 ## 合作作者论文
