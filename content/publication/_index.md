@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 
-以下为截至 2026 年 8 月的完整已发表论文列表。论文题目链接至期刊页面；页面下方保留了部分代表性论文的检索与详情入口。
+以下为截至 2026 年 8 月的完整已发表/已接收论文列表。论文题目链接至期刊页面；页面下方保留了部分代表性论文的检索与详情入口。
 
 <aside class="citation-tool" id="openalex-citation-tool" data-author-id="A5010162353">
   <div>
@@ -69,47 +69,49 @@ banner:
 
 ## 合作作者论文
 
-1. [Universal and Task-Specific Machine-Learning Interatomic Potentials with Eleven-Element Database for Thermal-Transport Modeling of Semiconductors and Interfaces](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202532186)<br>
+1. [Polarization Engineering of the Orbital Hall Conductivity in the Two-Dimensional Ferroelectric Higher-Order Topological Insulators Tl₂S and SnS](https://journals.aps.org/prb/accepted/10.1103/nqkg-2sj7)<br>
+   *Physical Review B*, accepted (2026)
+2. [Universal and Task-Specific Machine-Learning Interatomic Potentials with Eleven-Element Database for Thermal-Transport Modeling of Semiconductors and Interfaces](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202532186)<br>
    *Advanced Functional Materials*, e32186 (2026)
-2. [Local Atomic Energy Regularization with Posterior Information Optimization in Machine-Learning Interatomic Potentials](https://journals.aps.org/prb/abstract/10.1103/lrb4-qhkl)<br>
+3. [Local Atomic Energy Regularization with Posterior Information Optimization in Machine-Learning Interatomic Potentials](https://journals.aps.org/prb/abstract/10.1103/lrb4-qhkl)<br>
    *Physical Review B* **112**, 064306 (2025)
-3. [Global Universal Scaling and Ultrasmall Parameterization in Machine-Learning Interatomic Potentials with Superlinearity](https://www.pnas.org/doi/10.1073/pnas.2503439122)<br>
+4. [Global Universal Scaling and Ultrasmall Parameterization in Machine-Learning Interatomic Potentials with Superlinearity](https://www.pnas.org/doi/10.1073/pnas.2503439122)<br>
    *PNAS* **122**, e2503439122 (2025)
-4. [Toward an Understanding of Magnetism in the Strained 1T-MnCl₂: The 90° Super-Exchange and d-p Hybridization](https://www.sciencedirect.com/science/article/pii/S0927025625000692)<br>
+5. [Toward an Understanding of Magnetism in the Strained 1T-MnCl₂: The 90° Super-Exchange and d-p Hybridization](https://www.sciencedirect.com/science/article/pii/S0927025625000692)<br>
    *Computational Materials Science* **250**, 113726 (2025)
-5. [An Insulating and Easy Magnetization-Plane Magnet: The DFT+U and Constrained Electron Population Study of 1T-FeCl₂](https://www.sciencedirect.com/science/article/abs/pii/S0927025623007462)<br>
+6. [An Insulating and Easy Magnetization-Plane Magnet: The DFT+U and Constrained Electron Population Study of 1T-FeCl₂](https://www.sciencedirect.com/science/article/abs/pii/S0927025623007462)<br>
    *Computational Materials Science* **233**, 112752 (2024)
-6. [First Principles Study of Triazine-Based Covalent Organic Framework as a High Capacity Anode Material for Na/K-Ion Batteries](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04721k)<br>
+7. [First Principles Study of Triazine-Based Covalent Organic Framework as a High Capacity Anode Material for Na/K-Ion Batteries](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04721k)<br>
    *Physical Chemistry Chemical Physics* **26**, 1376 (2024)
-7. [Stacking Electron-Rich and Electron-Deficient Monolayers for Extraordinary Mid- to Far-Infrared Excitonic Absorption](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.044085)<br>
+8. [Stacking Electron-Rich and Electron-Deficient Monolayers for Extraordinary Mid- to Far-Infrared Excitonic Absorption](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.044085)<br>
    *Physical Review Applied* **19**, 044085 (2023)
-8. [Giant Dzyaloshinskii-Moriya Interaction in Monolayer CrI₃ on Metal Substrates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L100407)<br>
+9. [Giant Dzyaloshinskii-Moriya Interaction in Monolayer CrI₃ on Metal Substrates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L100407)<br>
    *Physical Review B* **106**, L100407 (2022)
-9. [Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C₃N and C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.034068)<br>
+10. [Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C₃N and C₃B](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.034068)<br>
    *Physical Review Applied* **17**, 034068 (2022)
-10. [In-Plane Magnetization and Quantum Anomalous Hall Effect in BiFeO₃/Graphene Superlattice](https://aip.scitation.org/doi/10.1063/5.0083643)<br>
+11. [In-Plane Magnetization and Quantum Anomalous Hall Effect in BiFeO₃/Graphene Superlattice](https://aip.scitation.org/doi/10.1063/5.0083643)<br>
     *Applied Physics Letters* **120**, 084002 (2022)
-11. [Dual Adaptive Sampling and Machine Learning Interatomic Potentials for Modeling Materials with Chemical Bond Hierarchy](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.094310)<br>
+12. [Dual Adaptive Sampling and Machine Learning Interatomic Potentials for Modeling Materials with Chemical Bond Hierarchy](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.094310)<br>
     *Physical Review B* **104**, 094310 (2021)
-12. [Combined Sub-Sampling and Analytical Integration for Efficient Large-Scale GW Calculations for 2D Systems](https://www.nature.com/articles/s41524-020-00385-5)<br>
+13. [Combined Sub-Sampling and Analytical Integration for Efficient Large-Scale GW Calculations for 2D Systems](https://www.nature.com/articles/s41524-020-00385-5)<br>
     *npj Computational Materials* **6**, 118 (2020)
-13. [Manipulation of Valley Pseudospin in WSe₂/CrI₃ Heterostructure by the Magnetic Proximity Effect](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.125401)<br>
+14. [Manipulation of Valley Pseudospin in WSe₂/CrI₃ Heterostructure by the Magnetic Proximity Effect](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.125401)<br>
     *Physical Review B* **101**, 125401 (2020)
-14. [First-Principles Studies of Two-Dimensional Electron Gas at the Interface of Polar/Polar LaAlO₃/KNbO₃ Superlattices](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CP/C8CP07202G)<br>
+15. [First-Principles Studies of Two-Dimensional Electron Gas at the Interface of Polar/Polar LaAlO₃/KNbO₃ Superlattices](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CP/C8CP07202G)<br>
     *Physical Chemistry Chemical Physics* **21**, 8046–8053 (2019)
-15. [Prediction of MXene-Based 2D Tunable Band Gap Semiconductors: GW Quasiparticle Calculations](https://pubs.rsc.org/en/content/articlelanding/2019/nr/c9nr01160a)<br>
+16. [Prediction of MXene-Based 2D Tunable Band Gap Semiconductors: GW Quasiparticle Calculations](https://pubs.rsc.org/en/content/articlelanding/2019/nr/c9nr01160a)<br>
     *Nanoscale* **11**, 3993 (2019)
-16. [Two-Dimensional Selenium Allotropes from First Principles and Swarm Intelligence](http://iopscience.iop.org/article/10.1088/1361-648X/ab059d)<br>
+17. [Two-Dimensional Selenium Allotropes from First Principles and Swarm Intelligence](http://iopscience.iop.org/article/10.1088/1361-648X/ab059d)<br>
     *Journal of Physics: Condensed Matter* **31**, 235702 (2019)
-17. [Quasiparticle Band Structures of CuCl, CuBr, AgCl, and AgBr: The Extreme Case](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.045108)<br>
+18. [Quasiparticle Band Structures of CuCl, CuBr, AgCl, and AgBr: The Extreme Case](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.045108)<br>
     *Physical Review B* **98**, 045108 (2018)
-18. [First-Principles Study of Ga-Vacancy Induced Magnetism in β-Ga₂O₃](http://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp03675b)<br>
+19. [First-Principles Study of Ga-Vacancy Induced Magnetism in β-Ga₂O₃](http://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp03675b)<br>
     *Physical Chemistry Chemical Physics* **19**, 28928 (2017)
-19. [Doping Induced Dimensionality Reduction of the Magnetic Order in DyFe₁₋ₓInₓO₃](http://www.sciencedirect.com/science/article/pii/S0925838816334570)<br>
+20. [Doping Induced Dimensionality Reduction of the Magnetic Order in DyFe₁₋ₓInₓO₃](http://www.sciencedirect.com/science/article/pii/S0925838816334570)<br>
     *Journal of Alloys and Compounds* **695**, 1699 (2017)
-20. [Probing the Electronic States and Impurity Effects in Black Phosphorus Vertical Heterostructures](http://iopscience.iop.org/article/10.1088/2053-1583/3/1/015012/meta)<br>
+21. [Probing the Electronic States and Impurity Effects in Black Phosphorus Vertical Heterostructures](http://iopscience.iop.org/article/10.1088/2053-1583/3/1/015012/meta)<br>
     *2D Materials* **3**, 015012 (2016)
-21. [Selected Multiferroic Perovskite Oxides Containing Rare Earth and Transition Metal Elements](http://link.springer.com/article/10.1007/s11434-014-0643-5)<br>
+22. [Selected Multiferroic Perovskite Oxides Containing Rare Earth and Transition Metal Elements](http://link.springer.com/article/10.1007/s11434-014-0643-5)<br>
     *Chinese Science Bulletin* **59**, 5170 (2014)
 
 ## 可检索代表性论文
