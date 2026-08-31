@@ -11,7 +11,7 @@ tags:
   - 分子工程
 ---
 
-课题组论文 “Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties” 已被 *The Journal of Physical Chemistry C* 接收。
+课题组合作论文 “Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties” 已被 *The Journal of Physical Chemistry C* 接收。
 
 <!--more-->
 
