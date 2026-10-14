@@ -35,7 +35,7 @@ banner:
 ## 第一 / 通讯作者论文
 
 1. [Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties](/publication/molecular-engineering-2d-hybrid-perovskites/)<br>
-   *The Journal of Physical Chemistry C*, accepted (2026)
+   *The Journal of Physical Chemistry C* **130**, 12741–12747 (2026)
 2. [Functional Dependence of d-State Bonding and Magnetovolume Effects in Heusler Alloys](https://pubs.rsc.org/cp/article-abstract/doi/10.1039/d6cp01889k/1293372/Functional-dependence-of-d-state-bonding-and)<br>
    *Physical Chemistry Chemical Physics*, accepted/published online (2026)
 3. [Polarization Engineering of the Orbital Hall Conductivity in the Two-Dimensional Ferroelectric Higher-Order Topological Insulators Tl₂S and SnS](https://journals.aps.org/prb/accepted/10.1103/nqkg-2sj7)<br>

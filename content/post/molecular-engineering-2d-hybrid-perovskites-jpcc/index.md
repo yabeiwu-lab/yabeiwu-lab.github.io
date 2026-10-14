@@ -1,6 +1,6 @@
 ---
-title: 二维杂化钙钛矿中铁电与自旋性质调控研究被 JPCC 接收
-date: 2026-08-17
+title: 二维杂化钙钛矿中铁电与自旋性质调控研究发表于 JPCC
+date: 2026-08-29
 categories:
   - 研究进展
 tags:
@@ -11,7 +11,7 @@ tags:
   - 分子工程
 ---
 
-课题组合作论文 “Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties” 已被 *The Journal of Physical Chemistry C* 接收。
+课题组合作论文 “Molecular Engineering of 2D Hybrid Perovskites: Tailoring Alkyl Chain Length for Tunable Ferroelectricity and Spin Properties” 已发表于 *The Journal of Physical Chemistry C*。
 
 <!--more-->
 
@@ -19,4 +19,4 @@ tags:
 
 研究表明，有机链长变化可作为调控二维杂化钙钛矿功能性质的重要结构自由度，有助于建立分子结构、极化响应与自旋性质之间的内在联系。相关结果为低维有机-无机杂化材料的可控设计及多功能物性调控提供了理论参考。
 
-论文信息：Xiaojun He, Tao Hu, Heng Gao, Shunbo Hu, Guodong Zhao, Yabei Wu, Xiaohui Fan, Wei Ren, Fuqiang Huang, and Zhongming Ren, *The Journal of Physical Chemistry C*, accepted (2026)。
+论文信息：Xiaojun He, Tao Hu, Heng Gao, Shunbo Hu, Guodong Zhao, Yabei Wu, Xiaohui Fan, Wei Ren, Fuqiang Huang, and Zhongming Ren, *The Journal of Physical Chemistry C* **130**, 12741–12747 (2026). DOI: [10.1021/acs.jpcc.6c04031](https://doi.org/10.1021/acs.jpcc.6c04031)。
